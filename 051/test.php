@@ -1,6 +1,6 @@
 <?php
 
-class Tree
+class test
 {
 
 }
